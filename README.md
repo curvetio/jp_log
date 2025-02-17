@@ -1,2 +1,2 @@
 # Stem Blog
-blog related to STEM
+log related to Japanese learning
