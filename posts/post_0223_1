@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japanese Lesson Summary</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            background: #fff;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        li {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <h2>難しい日本語表現 (Difficult Japanese Expressions)</h2>
+    <ul>
+        <li>かたいかわ（硬い皮） – Tough/hard skin</li>
+        <li>フロリダ産オレンジ – Florida-grown oranges</li>
+        <li>メキシコのアボカド – Mexican avocado</li>
+        <li>一個（いっこ） – One piece</li>
+        <li>三つかいました（みっつかいました） – Bought three</li>
+        <li>地元（じもと） – Local area</li>
+        <li>一パック5ドル – One pack costs 5 dollars</li>
+        <li>風邪をひく（かぜをひく） – To catch a cold</li>
+        <li>検査（けんさ） – Examination/check-up</li>
+        <li>のどが痛い（のどがいたい） – Sore throat</li>
+        <li>インスタントヌードル – Instant noodles</li>
+        <li>即席めん（そくせきめん） – Instant noodles (formal)</li>
+        <li>苺は1パックで500-800えん – Strawberries cost 500–800 yen per pack</li>
+        <li>すごく高かった（すごくたかかった） – It was very expensive</li>
+        <li>サブウェイ – Subway (restaurant)</li>
+        <li>そういうメニューがあります – There is such a menu</li>
+    </ul>
+
+    <h2>先生のフィードバック (Instructor's Feedback)</h2>
+    <ul>
+        <li><strong>文法の改善点：</strong> 助詞「は」「のに」「を」の使い方に注意</li>
+        <li><strong>語彙・表現：</strong> 買い物や健康に関する表現が多く登場</li>
+        <li><strong>発音と流暢さ：</strong> 自然な表現を意識する</li>
+        <li><strong>励まし：</strong> 会話スキルが向上中、継続して練習することを推奨</li>
+        <li><strong>追加のアドバイス：</strong> 日本の季節の変化や花粉症についての話題</li>
+    </ul>
+</body>
+</html>
