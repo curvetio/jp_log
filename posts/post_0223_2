@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inuyasha Grammar Points</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
+        .grammar-point { margin-bottom: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; }
+        .original-text { font-weight: bold; color: #333; }
+        .grammar-title { font-size: 1.2em; font-weight: bold; color: #d9534f; }
+        .example { margin-left: 20px; color: #555; }
+    </style>
+</head>
+<body>
+    <h1>Inuyasha Grammar Points</h1>
+    
+    <h2>Original Text</h2>
+    <p>「言われてみれば、神々しいような気もするのう。」</p>
+    <p>「桔梗さまの生まれ変わりなんだってよ。」</p>
+    <p>「げ。」</p>
+    <p>「拝まれてる。」</p>
+    <p>「……」</p>
+    <p>「あの女が… 桔梗…？」</p>
+    <p>「それ、おすそ分け。」</p>
+    <p>「なんだ、その食い物は。」</p>
+    <p>「村の人が貢いでくれた。」</p>
+    <p>「ねえ、降りてきて…」</p>
+    <p>「一緒に食べよう。」</p>
+    <p>「すっげームカつく。」</p>
+    <p>「別に、たださあ。」</p>
+    <p>「あんた… あたしのこと嫌いなんでしょ？」</p>
+    <p>「あのね。」</p>
+    <p>「桔梗じゃないの。」</p>
+    <p>「あたしは、かごめ。」</p>
+    <p>「だから、もう少し仲良くしない？ ねっ。」</p>
+    <p>「けっ。」</p>
+    <p>「バカ、おめえ。」</p>
+    <p>「おめーが誰だろうが…」</p>
+    <p>「四魂の玉のためにゃ、おまえを護りしねーぜ。」</p>
+    <p>「あ、そ。」</p>
+    <p>「おすわりって言えば？」</p>
+    <p>「みし…」</p>
+    <p>「あっ、ごめん。今のなしっ。」</p>
+    
+    <h2>Grammar Points</h2>
+    <div class="grammar-point">
+        <div class="grammar-title">～てみれば (N2) - "If you try (doing something)"</div>
+        <div class="example">Example: この本を読んでみれば、新しい発見があるかもしれない。</div>
+    </div>
+
+    <div class="grammar-point">
+        <div class="grammar-title">～なんだって (N2) - "I heard that"</div>
+        <div class="example">Example: 田中さん、結婚するんだって！</div>
+    </div>
+
+    <div class="grammar-point">
+        <div class="grammar-title">～って (N2) - Casual quotation</div>
+        <div class="example">Example: 彼、試験に合格したって！</div>
+    </div>
+
+    <div class="grammar-point">
+        <div class="grammar-title">～じゃないの (N3) - "Isn't it?" / "It's not, right?"</div>
+        <div class="example">Example: この映画、面白いんじゃないの？</div>
+    </div>
+
+    <div class="grammar-point">
+        <div class="grammar-title">～そうに (N3) - "Seems like"</div>
+        <div class="example">Example: 彼は楽しそうに話している。</div>
+    </div>
+
+    <div class="grammar-point">
+        <div class="grammar-title">～ても (N3) - "Even if"</div>
+        <div class="example">Example: 雨が降っても、試合は続きます。</div>
+    </div>
+
+    <div class="grammar-point">
+        <div class="grammar-title">～ような気がする (N3) - "I have a feeling that"</div>
+        <div class="example">Example: 明日は雨が降るような気がする。</div>
+    </div>
+</body>
+</html>
