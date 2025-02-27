@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japanese Learning - 星が光るのはなぜ？</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.8;
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .furigana {
+            font-size: 0.9em;
+            color: gray;
+        }
+        .quiz {
+            margin-top: 20px;
+            background-color: #f4f4f4;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        .answer {
+            display: none;
+            color: green;
+            font-weight: bold;
+        }
+        button {
+            margin-top: 10px;
+            padding: 8px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 1em;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>星（ほし）が光（ひか）るのはなぜ？</h1>
+
+    <p>夜空（よぞら）にたくさん見（み）える星（ほし）は、どうして光（ひか）っているのでしょうか？</p>
+    <p>星（ほし）は高温（こうおん）のガスでできています。</p>
+    <p>特（とく）に、星（ほし）の中心（ちゅうしん）では、ものすごく高（たか）い温度（おんど）と強（つよ）い圧力（あつりょく）があります。</p>
+    <p>この中心（ちゅうしん）では、水素（すいそ）という元素（げんそ）がくっついてヘリウムになります。</p>
+    <p>このとき、大（おお）きなエネルギーが生（う）まれ、それが光（ひかり）になります。</p>
+    <p>このしくみを核融合（かくゆうごう）といいます。</p>
+
+    <h2>語彙（ごい） - Vocabulary</h2>
+    <ul>
+        <li>星（ほし） - Star</li>
+        <li>高温（こうおん） - High temperature</li>
+        <li>温度（おんど） - Temperature</li>
+        <li>圧力（あつりょく） - Pressure</li>
+        <li>元素（げんそ） - Chemical element</li>
+        <li>核融合（かくゆうごう） - Nuclear fusion</li>
+    </ul>
+
+    <div class="quiz">
+        <h2>クイズ - Quiz</h2>
+        <p><strong>1. 星（ほし）は何（なに）でできていますか？</strong></p>
+        <ul>
+            <li>A) 水（みず）</li>
+            <li>B) 高温（こうおん）のガス</li>
+            <li>C) 土（つち）</li>
+        </ul>
+        <button onclick="showAnswer('answer1')">答えを見る</button>
+        <p id="answer1" class="answer">答え: B) 高温（こうおん）のガス</p>
+
+        <p><strong>2. 星（ほし）の光（ひかり）は何（なに）から生（う）まれますか？</strong></p>
+        <ul>
+            <li>A) 核融合（かくゆうごう）</li>
+            <li>B) 風（かぜ）</li>
+            <li>C) 雨（あめ）</li>
+        </ul>
+        <button onclick="showAnswer('answer2')">答えを見る</button>
+        <p id="answer2" class="answer">答え: A) 核融合（かくゆうごう）</p>
+    </div>
+
+    <script>
+        function showAnswer(id) {
+            document.getElementById(id).style.display = "block";
+        }
+    </script>
+
+</body>
+</html>
