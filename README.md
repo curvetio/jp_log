@@ -1,2 +1,2 @@
-# Stem Blog
+# JP Blog
 log related to Japanese learning
